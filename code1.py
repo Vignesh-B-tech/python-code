@@ -1,5 +1,5 @@
-a=input()
-b=input()
+a=int(input())
+b=int(input())
 if(a>10):
     c=a+b
     print(c)
